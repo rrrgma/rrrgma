@@ -1,7 +1,8 @@
-## Olá, Eu sou a Melissa
+## Hi, I'm Melissa
 
- desenvolvedora front-end
-🌱 estudando front-end 
+ front-end developer
+
+🌱 studying front-end
 
 <div>
   <a href="https://github.com/rrrgma">
