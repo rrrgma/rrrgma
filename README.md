@@ -25,7 +25,7 @@
   <a href = "mailto:agathamgrrr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/melissa-guerrero-5475b41b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.criarbanner.com.br" title="gif" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/961ed846fe72a0525ca73a51ddc3c58e.gif" width="100" height="100" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="gif" target="_blank"></a>
-
+  
 </div>
 
  
